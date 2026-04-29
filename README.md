@@ -1,4 +1,4 @@
-# 🎌 Nino
+# Nino
 
 Um app simples para organizar seus animes localmente, sem depender de APIs externas.
 
